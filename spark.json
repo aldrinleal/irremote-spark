@@ -1,0 +1,8 @@
+
+{
+  "name": "IRRemote",
+  "author": "Aldrin Leal",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A simple library that illustrates coding conventions of a Spark Library"
+}
