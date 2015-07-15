@@ -2,7 +2,7 @@
 {
   "name": "IRRemote",
   "author": "Aldrin Leal",
-  "license": "MIT",
+  "license": "LGPL 2.1",
   "version": "0.0.1",
   "description": "A simple library that illustrates coding conventions of a Spark Library"
 }
